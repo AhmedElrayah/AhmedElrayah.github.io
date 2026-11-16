@@ -23,4 +23,4 @@ Official guide: https://docs.github.com/en/pages/getting-started-with-github-pag
 
 Review the opening statement: interests, future direction, and reflection were drafted from limited background and should be checked for accuracy. Add real artifacts and their selection rationale; the statement currently describes the planned collection broadly. Add university, degree dates, experience, and verified skills to the résumé. BSA is intentionally not expanded because its full meaning was not supplied. The display name Ahmed Elrayah is derived from the supplied GitHub username.
 
-The visual design follows the supplied reference's light background, rounded cards, and blue/purple accents, using original code and the user's draft content. No reference-site experience or credentials have been copied.
+The visual design follows the supplied reference's light background, rounded cards, and slate-gray and teal accents, using original code and the user's draft content. No reference-site experience or credentials have been copied.
